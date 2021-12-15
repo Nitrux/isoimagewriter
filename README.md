@@ -1,4 +1,4 @@
-# ISOImageWriter
+# ISOImageWriter [![Build Status](https://app.travis-ci.com/Nitrux/isoimagewriter.svg?branch=main)](ttps://app.travis-ci.com/Nitrux/isoimagewriter)
 ISO Image Writer is a tool to write a .iso file to a USB disk.
 
 ISO Image Writer is a tool to write a .iso file to a USB disk.
@@ -8,5 +8,5 @@ It uses KAuth so it does not run as root except when required. It will verify IS
 # Issues
 If you find problems with the contents of this repository please create an issue.
 
-©2018 Nitrux Latinoamericana S.C.
+©2021 Nitrux Latinoamericana S.C.
 
