@@ -1,5 +1,4 @@
 # ISOImageWriter [![Build Status](https://app.travis-ci.com/Nitrux/isoimagewriter.svg?branch=main)](ttps://app.travis-ci.com/Nitrux/isoimagewriter)
-ISO Image Writer is a tool to write a .iso file to a USB disk.
 
 ISO Image Writer is a tool to write a .iso file to a USB disk.
 
