@@ -57,7 +57,7 @@ DEBIAN_FRONTEND=noninteractive apt -qq -yy install --only-upgrade \
 
 git clone --single-branch --branch master https://invent.kde.org/utilities/isoimagewriter.git
 
-rm -rf isoimagewriter/{LICENSES,doc,signing-keys,.gitignore,.gitlab-ci.yml,.kde-ci.yml,.travis.yml,Messages.sh,isoimagewriter.kdev4}
+rm -rf isoimagewriter/{LICENSES,doc,.gitignore,.gitlab-ci.yml,.kde-ci.yml,.travis.yml,Messages.sh,isoimagewriter.kdev4}
 
 ### Compile Source
 
